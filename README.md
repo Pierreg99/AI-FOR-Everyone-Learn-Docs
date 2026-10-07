@@ -1,3 +1,60 @@
+<div align="center">
+
+<img src="./assets/readme-banner.svg" alt="AI-FOR-Everyone-Learn-Docs" width="100%">
+
+# AI-FOR-Everyone-Learn-Docs
+
+Eigenes Repository. GitHub hat noch keine Beschreibung gesetzt.
+
+[![branch](https://img.shields.io/badge/branch-main-7EB8C9?style=flat-square)](https://github.com/Pierreg99/AI-FOR-Everyone-Learn-Docs)
+[![sichtbarkeit](https://img.shields.io/badge/sichtbarkeit-öffentlich-141414?style=flat-square&labelColor=0A0A0A)](https://github.com/Pierreg99/AI-FOR-Everyone-Learn-Docs)
+[![sprache](https://img.shields.io/badge/sprache-JavaScript-2A2A28?style=flat-square&labelColor=0A0A0A)](https://github.com/Pierreg99/AI-FOR-Everyone-Learn-Docs)
+
+</div>
+
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### Bestand
+
+Keine Beschreibung im Repo-Metadatum. Dieses README erfindet deshalb keine Funktionen, Releases oder Laufzeiten.
+
+Der Default-Branch `main` ist die Fläche, die zählt. Was nicht in diesem Baum liegt, ist kein Feature dieses Repos.
+
+</td>
+<td width="42%" valign="top">
+
+### Fakten
+
+| Feld | Wert |
+| --- | --- |
+| Owner | Pierreg99 |
+| Branch | `main` |
+| Sichtbarkeit | öffentlich |
+| Sprache | JavaScript |
+| Archiv | nein |
+
+</td>
+</tr>
+</table>
+
+## Lesen
+
+1. Default-Branch öffnen.
+2. Nur Dateien in diesem Baum als Beleg nehmen.
+3. Issues und Diskussionen nur nutzen, wenn sie im Repo eingeschaltet sind.
+
+## Grenze
+
+Keine Qualitätszahl, kein Paketstand und keine Runtime, die nicht als Datei in diesem Repo steht.
+
+<p align="center"><sub>Fläche nach Cryo Core Lite v1.5 · Tokens #0A0A0A / #141414 / #7EB8C9</sub></p>
+
+
+<details>
+<summary>Bisheriger README-Text</summary>
+
 # AI for Everyone — learn, build, and question AI
 
 **An open learning guide in English and German.** Explore 36 matched chapters, from machine learning and language models to RAG, agents, security, evaluation, and production engineering. Every chapter includes a worked example, a failure mode, an exercise with an answer, and links to primary reading.
@@ -38,3 +95,5 @@ See [WEBSITE.md](WEBSITE.md) for the file layout and deployment, [CONTRIBUTING.m
 ### Edition 2.2: clearer learning navigation
 
 Learning paths show individual progress, finished chapters have a visible state, and completing the guide points to practice projects. A collapsible chapter outline is available on phones and tablets; desktop outlines highlight the current section. Deployment checks now verify the actual public German and English pages after publication.
+
+</details>
