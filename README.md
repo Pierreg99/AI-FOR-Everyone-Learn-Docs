@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="./assets/readme-banner.svg" alt="AI-FOR-Everyone-Learn-Docs" width="100%">
+
 # AI for Everyone — learn, build, and question AI
 
 <p><strong>Offener zweisprachiger Lernleitfaden zu AI mit 36 Kapiteln als statische Website.</strong></p>
@@ -15,10 +17,38 @@
 <p><a href="#schnellstart">Schnellstart</a> · <a href="#projektstruktur">Projektstruktur</a> · <a href="#english-summary">English</a></p>
 </div>
 
+<table>
+<tr>
+<td width="58%" valign="top">
+
+### Bestand
+
+Keine Beschreibung im Repo-Metadatum. Dieses README erfindet deshalb keine Funktionen, Releases oder Laufzeiten.
+
+Der Default-Branch `main` ist die Fläche, die zählt. Was nicht in diesem Baum liegt, ist kein Feature dieses Repos.
+
+</td>
+<td width="42%" valign="top">
+
+### Fakten
+
+| Feld | Wert |
+| --- | --- |
+| Owner | Pierreg99 |
+| Branch | `main` |
+| Sichtbarkeit | öffentlich |
+| Sprache | JavaScript |
+| Archiv | nein |
+
+</td>
+</tr>
+</table>
+
 ---
 
 ## Inhaltsverzeichnis
 
+- [Bestand und Fakten](#bestand)
 - [Überblick](#überblick)
 - [Features](#features)
 - [Schnellstart](#schnellstart)
@@ -35,7 +65,7 @@ Offener zweisprachiger Lernleitfaden zu AI mit 36 Kapiteln als statische Website
 | Merkmal | Wert |
 | --- | --- |
 | Sprachen | JavaScript (60%), CSS (39%) |
-| Dateien im Repository | 161 |
+| Dateien im Repository | 162 |
 | Einstiegspunkte | `index.html` |
 | Version (`package.json`) | 2.2.0 |
 | CI-Workflows | 2 |
@@ -95,7 +125,7 @@ npm run check
 flowchart LR
     R(["AI-FOR-Everyone-Learn-Docs"])
     R --> D0["docs/<br/>118 Dateien"]
-    R --> D1["assets/<br/>6 Dateien"]
+    R --> D1["assets/<br/>7 Dateien"]
     R --> D2["scripts/<br/>6 Dateien"]
     R --> D3["tests/<br/>4 Dateien"]
     R --> D4["examples/<br/>3 Dateien"]
@@ -111,13 +141,14 @@ flowchart LR
 AI-FOR-Everyone-Learn-Docs/
 ├── .github/  (2 Dateien)
 │   └── workflows/
-├── assets/  (6 Dateien)
+├── assets/  (7 Dateien)
 │   ├── app.js
 │   ├── core.js
 │   ├── favicon.svg
 │   ├── lab-data.js
+│   ├── readme-banner.svg
 │   ├── style.css
-│   └── theme.js
+│   └── … (1 weitere)
 ├── data/  (1 Datei)
 │   └── chapters.json
 ├── docs/  (118 Dateien)
