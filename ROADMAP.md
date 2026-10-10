@@ -22,3 +22,7 @@
 - Measure which additional diagrams or interactive simulations genuinely improve comprehension.
 
 These are possible improvements, not a release commitment. Propose changes with a concrete learning objective and a way to check whether they help.
+
+---
+
+[Lern-Website: Deutsch](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/) · [Learning website: English](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

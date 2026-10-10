@@ -42,3 +42,7 @@ Assign exclusive write ownership or separate working copies. Check the original 
 ## Keep learning
 
 [Previous: 09](09-memory-tools-context.md) · [Overview](README.md) · [Next: 11](11-autonomy-evaluation.md) · [Deutsch](../de/10-multi-agent-systems.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/10-multi-agent-systems.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

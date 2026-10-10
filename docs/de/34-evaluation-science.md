@@ -42,3 +42,7 @@ Prüfe die vorher festgelegten Qualitätsgrenzen pro Sprache. Der Durchschnitt a
 ## Weiterlernen
 
 [Zurück: 33](33-multimodal-ai.md) · [Übersicht](README.md) · [Weiter: 35](35-privacy-engineering.md) · [English](../en/34-evaluation-science.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/34-evaluation-science.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

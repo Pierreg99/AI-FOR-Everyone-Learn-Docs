@@ -43,3 +43,7 @@ The primary store, search index, cache, summaries, and any retained conversation
 ## Keep learning
 
 [Previous: 27](27-tool-protocols-mcp.md) · [Overview](README.md) · [Next: 29](29-context-engineering.md) · [Deutsch](../de/28-memory-retrieval-evaluation.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/28-memory-retrieval-evaluation.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

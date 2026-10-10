@@ -46,3 +46,7 @@ Nein. Berichte die Erfolgsrate zusammen mit dem Berechtigungsverstoß und einer 
 ## Weiterlernen
 
 [Zurück: 10](10-multi-agent-systems.md) · [Übersicht](README.md) · [Weiter: 12](12-agi.md) · [English](../en/11-autonomy-evaluation.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/11-autonomy-evaluation.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

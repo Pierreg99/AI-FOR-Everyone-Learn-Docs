@@ -22,3 +22,7 @@ Original research and official documentation for the concepts in this guide.
 ## How to use these sources
 
 Examples, numbers, and exercise cases are original teaching examples. Sources document foundations and further perspectives; they do not automatically validate every architecture choice. Websites can change. Check the version used for an implementation. Links reviewed on 29 September 2026.
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/sources.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

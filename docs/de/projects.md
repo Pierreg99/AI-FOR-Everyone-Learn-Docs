@@ -23,3 +23,7 @@ Erfolg bedeutet: Du kannst erklären, warum die Gesamtrate den Sprachunterschied
 ## Ergebnisse festhalten
 
 Dokumentiere Aufgabe, Eingabe, erwartetes Ergebnis, beobachtetes Ergebnis und einen nächsten Verbesserungsschritt. Verwende für die Übungen keine personenbezogenen oder vertraulichen Daten. Die Beispiele benötigen nur die Python-Standardbibliothek.
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/projects.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

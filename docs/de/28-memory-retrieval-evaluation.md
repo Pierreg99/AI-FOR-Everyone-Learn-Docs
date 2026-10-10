@@ -43,3 +43,7 @@ Primärspeicher, Suchindex, Cache, Zusammenfassungen und eventuell gespeicherte 
 ## Weiterlernen
 
 [Zurück: 27](27-tool-protocols-mcp.md) · [Übersicht](README.md) · [Weiter: 29](29-context-engineering.md) · [English](../en/28-memory-retrieval-evaluation.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/28-memory-retrieval-evaluation.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

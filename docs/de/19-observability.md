@@ -43,3 +43,7 @@ Prüfe Perzentile, Timeout-Rate, Warteschlangenzeit und Aufgabengruppen. Ein sch
 ## Weiterlernen
 
 [Zurück: 18](18-roadmap-llm-agent-agi.md) · [Übersicht](README.md) · [Weiter: 20](20-data-pipelines.md) · [English](../en/19-observability.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/19-observability.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

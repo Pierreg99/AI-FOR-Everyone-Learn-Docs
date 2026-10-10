@@ -42,3 +42,7 @@ Leistung betrifft korrekte Zeiten und Teilnehmer, Breite die unterstützten Term
 ## Weiterlernen
 
 [Übersicht](README.md) · [Weiter: 02](02-machine-learning.md) · [English](../en/01-ai-fundamentals.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/01-ai-fundamentals.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

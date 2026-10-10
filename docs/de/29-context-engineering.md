@@ -43,3 +43,7 @@ Die relevante Aussage, ihre Einschränkungen und die Quellen- beziehungsweise Ve
 ## Weiterlernen
 
 [Zurück: 28](28-memory-retrieval-evaluation.md) · [Übersicht](README.md) · [Weiter: 30](30-tool-security.md) · [English](../en/29-context-engineering.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/29-context-engineering.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

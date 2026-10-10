@@ -44,3 +44,7 @@ Das lässt sich erst aus Gesamtkosten und Erfolgsrate beantworten. Rechne Modell
 ## Weiterlernen
 
 [Zurück: 35](35-privacy-engineering.md) · [Übersicht](README.md) · [English](../en/36-ai-product-engineering.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/36-ai-product-engineering.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

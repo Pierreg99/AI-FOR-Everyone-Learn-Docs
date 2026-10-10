@@ -43,3 +43,7 @@ Event → Queue → Worker → Checkpoint → State DB
                           ↑             │
                           └── Recovery ┘
 ```
+
+---
+
+[Lern-Website: Deutsch](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/) · [Learning website: English](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

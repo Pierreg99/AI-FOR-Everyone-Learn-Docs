@@ -44,3 +44,7 @@ Eine durchgesetzte Berechtigungsgrenze. Entferne die Löschfunktion oder beschr�
 ## Weiterlernen
 
 [Zurück: 13](13-asi.md) · [Übersicht](README.md) · [Weiter: 15](15-architecture-patterns.md) · [English](../en/14-security-safety.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/14-security-safety.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

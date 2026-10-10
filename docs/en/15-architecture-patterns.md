@@ -43,3 +43,7 @@ A drafting stage followed by verification. Use deterministic validators for mach
 ## Keep learning
 
 [Previous: 14](14-security-safety.md) · [Overview](README.md) · [Next: 16](16-formulas.md) · [Deutsch](../de/15-architecture-patterns.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/15-architecture-patterns.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

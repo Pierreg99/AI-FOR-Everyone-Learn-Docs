@@ -52,3 +52,7 @@ A model timeout, a tool error, and a process restart after an external action. F
 ## Keep learning
 
 [Previous: 16](16-formulas.md) · [Overview](README.md) · [Next: 18](18-roadmap-llm-agent-agi.md) · [Deutsch](../de/17-practice-llm-to-runtime.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/17-practice-llm-to-runtime.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

@@ -45,3 +45,7 @@ Die semantische Prüfung gegen den Produktbestand. Syntax, Schema, Fakten und Be
 ## Weiterlernen
 
 [Zurück: 03](03-transformers-foundation-models.md) · [Übersicht](README.md) · [Weiter: 05](05-generative-ai.md) · [English](../en/04-llms.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/04-llms.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

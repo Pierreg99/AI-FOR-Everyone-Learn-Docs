@@ -45,3 +45,7 @@ The request is rejected; the resource remains intact; the rejection reason is tr
 ## Keep learning
 
 [Previous: 23](23-governance-risk.md) · [Overview](README.md) · [Next: 25](25-distributed-agent-runtime.md) · [Deutsch](../de/24-agent-testing.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/24-agent-testing.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

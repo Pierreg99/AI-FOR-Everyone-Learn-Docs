@@ -43,3 +43,7 @@ Later retrieval might rank the old statement higher. Update the authoritative pr
 ## Keep learning
 
 [Previous: 08](08-agentic-ai.md) · [Overview](README.md) · [Next: 10](10-multi-agent-systems.md) · [Deutsch](../de/09-memory-tools-context.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/09-memory-tools-context.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

@@ -52,3 +52,7 @@ Die Erfolgsrate beträgt 80 Prozent; die Kosten pro Erfolg betragen 0,30 Euro. K
 ## Weiterlernen
 
 [Zurück: 15](15-architecture-patterns.md) · [Übersicht](README.md) · [Weiter: 17](17-practice-llm-to-runtime.md) · [English](../en/16-formulas.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/16-formulas.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

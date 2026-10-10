@@ -44,3 +44,7 @@ Die Versionsordnung prüfen und den veralteten Schreibversuch überspringen oder
 ## Weiterlernen
 
 [Zurück: 30](30-tool-security.md) · [Übersicht](README.md) · [Weiter: 32](32-retrieval-optimization.md) · [English](../en/31-event-driven-orchestration.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/31-event-driven-orchestration.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

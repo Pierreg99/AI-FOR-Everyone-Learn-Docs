@@ -43,3 +43,7 @@ Ein Entwurfs- und Prüfschritt. Verwende für maschinell entscheidbare Regeln de
 ## Weiterlernen
 
 [Zurück: 14](14-security-safety.md) · [Übersicht](README.md) · [Weiter: 16](16-formulas.md) · [English](../en/15-architecture-patterns.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/15-architecture-patterns.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

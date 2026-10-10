@@ -44,3 +44,7 @@ No. Type checking prevents neither path traversal nor command injection. Use nar
 ## Keep learning
 
 [Previous: 29](29-context-engineering.md) · [Overview](README.md) · [Next: 31](31-event-driven-orchestration.md) · [Deutsch](../de/30-tool-security.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/30-tool-security.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

@@ -52,3 +52,7 @@ Einen Modell-Timeout, einen Werkzeugfehler und einen Prozessneustart nach einer 
 ## Weiterlernen
 
 [Zurück: 16](16-formulas.md) · [Übersicht](README.md) · [Weiter: 18](18-roadmap-llm-agent-agi.md) · [English](../en/17-practice-llm-to-runtime.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/17-practice-llm-to-runtime.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

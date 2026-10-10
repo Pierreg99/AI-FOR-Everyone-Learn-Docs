@@ -42,3 +42,7 @@ A scheduled workflow with three verifiable steps probably suffices. A model can 
 ## Keep learning
 
 [Previous: 07](07-ai-agents.md) · [Overview](README.md) · [Next: 09](09-memory-tools-context.md) · [Deutsch](../de/08-agentic-ai.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/08-agentic-ai.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

@@ -44,3 +44,7 @@ Ja. Neue Inhalte, Rechte oder Aktualitätsprobleme können Antworten verändern.
 ## Weiterlernen
 
 [Zurück: 22](22-human-ai-interaction.md) · [Übersicht](README.md) · [Weiter: 24](24-agent-testing.md) · [English](../en/23-governance-risk.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/23-governance-risk.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

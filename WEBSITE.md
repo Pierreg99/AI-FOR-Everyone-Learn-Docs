@@ -28,3 +28,7 @@ Run `npm run format` after editing frontend code. Both languages use `scripts/i1
 Select **Settings → Pages → Build and deployment → Source → GitHub Actions**. Do not select a branch or `/docs`: those contain source Markdown and the unrendered template. A competing Jekyll deployment can replace the generated site even when the custom workflow succeeded.
 
 The Pages workflow separates read-only build/test jobs from publication permissions and tests under the repository subpath. After publishing, `npm run verify:deployment` checks the root, both language homepages, sample chapter routes, assets and release marker. For another host, set `SITE_URL` to its base URL, including its trailing slash.
+
+---
+
+[Lern-Website: Deutsch](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/) · [Learning website: English](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

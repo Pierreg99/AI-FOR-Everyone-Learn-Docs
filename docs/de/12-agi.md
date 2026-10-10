@@ -41,3 +41,7 @@ Eine einzelne autonome Aufgabe belegt keine breite, übertragbare Fähigkeit. Er
 ## Weiterlernen
 
 [Zurück: 11](11-autonomy-evaluation.md) · [Übersicht](README.md) · [Weiter: 13](13-asi.md) · [English](../en/12-agi.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/12-agi.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

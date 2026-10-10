@@ -52,3 +52,7 @@ Success is 80 percent; cost per success is 0.30 euros. Cost per attempt is inste
 ## Keep learning
 
 [Previous: 15](15-architecture-patterns.md) · [Overview](README.md) · [Next: 17](17-practice-llm-to-runtime.md) · [Deutsch](../de/16-formulas.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/16-formulas.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

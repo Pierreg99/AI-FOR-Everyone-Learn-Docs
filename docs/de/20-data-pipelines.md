@@ -43,3 +43,7 @@ Damit Herkunft, Aktualisierung, Löschung und Quellenangabe eindeutig funktionie
 ## Weiterlernen
 
 [Zurück: 19](19-observability.md) · [Übersicht](README.md) · [Weiter: 21](21-inference-serving.md) · [English](../en/20-data-pipelines.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/20-data-pipelines.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

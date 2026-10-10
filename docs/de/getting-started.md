@@ -25,3 +25,7 @@ Notiere ein Ergebnis, das funktioniert, und eines, das scheitert. Erkläre den U
 - Systeme betreiben: Kapitel 19–23, 25–26, 31–32, 34–36.
 
 Die angegebenen Lesezeiten sind Schätzungen bei ungefähr 180 Wörtern pro Minute. Plane zusätzliche Zeit für Übungen ein. Fortschritt und Lesezeichen der Website werden nur in deinem Browser gespeichert; es gibt kein Konto und keine Synchronisierung zwischen Geräten.
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/getting-started.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

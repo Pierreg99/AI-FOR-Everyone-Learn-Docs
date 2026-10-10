@@ -43,3 +43,7 @@ Inspect percentiles, timeout rate, queue time, and task groups. A fast majority 
 ## Keep learning
 
 [Previous: 18](18-roadmap-llm-agent-agi.md) · [Overview](README.md) · [Next: 20](20-data-pipelines.md) · [Deutsch](../de/19-observability.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/19-observability.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

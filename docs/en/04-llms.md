@@ -45,3 +45,7 @@ A semantic check against the product inventory. Syntax, schema, facts, and permi
 ## Keep learning
 
 [Previous: 03](03-transformers-foundation-models.md) · [Overview](README.md) · [Next: 05](05-generative-ai.md) · [Deutsch](../de/04-llms.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/04-llms.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

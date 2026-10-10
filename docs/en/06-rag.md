@@ -42,3 +42,7 @@ First check whether that paragraph was actually retrieved and included in contex
 ## Keep learning
 
 [Previous: 05](05-generative-ai.md) · [Overview](README.md) · [Next: 07](07-ai-agents.md) · [Deutsch](../de/06-rag.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/06-rag.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

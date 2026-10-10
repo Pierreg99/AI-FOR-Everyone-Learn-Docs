@@ -44,3 +44,7 @@ An enforced authorization boundary. Remove deletion capability or restrict it to
 ## Keep learning
 
 [Previous: 13](13-asi.md) · [Overview](README.md) · [Next: 15](15-architecture-patterns.md) · [Deutsch](../de/14-security-safety.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/14-security-safety.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

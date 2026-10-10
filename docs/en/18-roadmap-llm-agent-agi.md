@@ -45,3 +45,7 @@ Measure queueing, model time, tool time, and verification separately. Inspect th
 ## Keep learning
 
 [Previous: 17](17-practice-llm-to-runtime.md) · [Overview](README.md) · [Next: 19](19-observability.md) · [Deutsch](../de/18-roadmap-llm-agent-agi.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/18-roadmap-llm-agent-agi.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

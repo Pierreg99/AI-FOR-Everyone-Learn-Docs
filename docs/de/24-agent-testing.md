@@ -45,3 +45,7 @@ Die Anfrage wird abgelehnt; die Ressource bleibt erhalten; der Ablehnungsgrund i
 ## Weiterlernen
 
 [Zurück: 23](23-governance-risk.md) · [Übersicht](README.md) · [Weiter: 25](25-distributed-agent-runtime.md) · [English](../en/24-agent-testing.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/24-agent-testing.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

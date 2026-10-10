@@ -43,3 +43,7 @@ So provenance, updates, deletion, and citations work unambiguously. Without thes
 ## Keep learning
 
 [Previous: 19](19-observability.md) · [Overview](README.md) · [Next: 21](21-inference-serving.md) · [Deutsch](../de/20-data-pipelines.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/20-data-pipelines.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

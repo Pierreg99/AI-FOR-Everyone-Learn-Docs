@@ -44,3 +44,7 @@
 | 34 | [Evaluation and statistical thinking](34-evaluation-science.md) | 11 |
 | 35 | [Privacy engineering and data protection](35-privacy-engineering.md) | 14, 20 |
 | 36 | [AI product engineering and unit economics](36-ai-product-engineering.md) | 16, 21, 34 |
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/README.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

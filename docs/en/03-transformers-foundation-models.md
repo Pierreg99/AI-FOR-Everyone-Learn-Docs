@@ -44,3 +44,7 @@ No. You supplied in-context examples. Parameters remain unchanged during ordinar
 ## Keep learning
 
 [Previous: 02](02-machine-learning.md) · [Overview](README.md) · [Next: 04](04-llms.md) · [Deutsch](../de/03-transformers-foundation-models.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/03-transformers-foundation-models.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

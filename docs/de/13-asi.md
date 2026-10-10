@@ -43,3 +43,7 @@ Beispielsweise: „Wie verändert dieses System die Bearbeitungszeit und Qualit�
 ## Weiterlernen
 
 [Zurück: 12](12-agi.md) · [Übersicht](README.md) · [Weiter: 14](14-security-safety.md) · [English](../en/13-asi.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/13-asi.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

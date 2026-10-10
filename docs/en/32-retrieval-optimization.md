@@ -43,3 +43,7 @@ They may mirror source wording and structure. Add real user phrasing, difficult 
 ## Keep learning
 
 [Previous: 31](31-event-driven-orchestration.md) · [Overview](README.md) · [Next: 33](33-multimodal-ai.md) · [Deutsch](../de/32-retrieval-optimization.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/32-retrieval-optimization.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

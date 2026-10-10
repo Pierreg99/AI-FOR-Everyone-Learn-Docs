@@ -44,3 +44,7 @@ Waiting time, input length, concurrency, quality, and full completion time, amon
 ## Keep learning
 
 [Previous: 20](20-data-pipelines.md) · [Overview](README.md) · [Next: 22](22-human-ai-interaction.md) · [Deutsch](../de/21-inference-serving.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/21-inference-serving.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

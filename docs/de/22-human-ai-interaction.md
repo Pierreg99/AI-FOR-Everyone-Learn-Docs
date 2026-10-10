@@ -44,3 +44,7 @@ Die ursprüngliche Zustimmung deckt die geänderte Wirkung nicht automatisch ab.
 ## Weiterlernen
 
 [Zurück: 21](21-inference-serving.md) · [Übersicht](README.md) · [Weiter: 23](23-governance-risk.md) · [English](../en/22-human-ai-interaction.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/22-human-ai-interaction.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

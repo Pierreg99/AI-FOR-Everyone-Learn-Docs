@@ -43,3 +43,7 @@ The relevant claim, its qualifications, and source or version attribution. Losin
 ## Keep learning
 
 [Previous: 28](28-memory-retrieval-evaluation.md) · [Overview](README.md) · [Next: 30](30-tool-security.md) · [Deutsch](../de/29-context-engineering.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/29-context-engineering.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

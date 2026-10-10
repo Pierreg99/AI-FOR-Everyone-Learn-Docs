@@ -44,3 +44,7 @@ Nein. Ordne abgeleitete Einträge ihrer Herkunft zu und beziehe sie in die Lösc
 ## Weiterlernen
 
 [Zurück: 34](34-evaluation-science.md) · [Übersicht](README.md) · [Weiter: 36](36-ai-product-engineering.md) · [English](../en/35-privacy-engineering.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/35-privacy-engineering.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

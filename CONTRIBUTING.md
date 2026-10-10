@@ -16,3 +16,7 @@ The website is generated into `dist/`, which is deliberately excluded from Git. 
 ## Frontend formatting
 
 Run `npm run format` after code changes and `npm run check` before committing. New UI strings belong in both editions of `scripts/i18n.mjs`. Browser tests must cover meaningful interaction changes on desktop and mobile.
+
+---
+
+[Lern-Website: Deutsch](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/) · [Learning website: English](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

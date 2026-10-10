@@ -43,3 +43,7 @@ The old worker may still run. The destination must recognize its stale ownership
 ## Keep learning
 
 [Previous: 24](24-agent-testing.md) · [Overview](README.md) · [Next: 26](26-durable-state-machines.md) · [Deutsch](../de/25-distributed-agent-runtime.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/25-distributed-agent-runtime.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

@@ -43,3 +43,7 @@ All necessary actions remain present; warnings are represented accurately; no ne
 ## Keep learning
 
 [Previous: 04](04-llms.md) · [Overview](README.md) · [Next: 06](06-rag.md) · [Deutsch](../de/05-generative-ai.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/05-generative-ai.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

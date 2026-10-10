@@ -42,3 +42,7 @@ The step failed or remains uncertain. Inspect actual file state before retrying.
 ## Keep learning
 
 [Previous: 06](06-rag.md) · [Overview](README.md) · [Next: 08](08-agentic-ai.md) · [Deutsch](../de/07-ai-agents.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/07-ai-agents.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

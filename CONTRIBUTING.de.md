@@ -12,3 +12,7 @@ Danke für deine Mitarbeit. Deutsche und englische Kapitel sollen Nummer, fachli
 Veränderliche technische Details sollten auf offizielle Dokumentation oder Originalarbeiten verweisen und ihre Version benennen. Preise in Rechenbeispielen sind Annahmen und keine Anbieterpreise. Veröffentliche keine API-Schlüssel, Kundendaten oder unnötigen personenbezogenen Inhalte. Die Kapitel sollen ohne JavaScript lesbar bleiben.
 
 Die Website entsteht im Git-ignorierten Ordner `dist/`. Committe die Quelldateien, nicht den generierten Build. Beschreibe im Pull Request, was sich für Leser geändert hat und welche Prüfungen liefen.
+
+---
+
+[Lern-Website: Deutsch](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/) · [Learning website: English](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

@@ -34,3 +34,7 @@ Terms for quick reference. The chapters explain their applications and limits.
 | Tool calling | A structured proposal to invoke an external function. |
 | Trace | A connected record of an execution’s steps. |
 | Workflow | A largely predefined control path for a task. |
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/glossary.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

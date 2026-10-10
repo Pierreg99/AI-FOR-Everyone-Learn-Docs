@@ -43,3 +43,7 @@ Spätere Abrufe könnten die alte Angabe höher gewichten. Aktualisiere den maß
 ## Weiterlernen
 
 [Zurück: 08](08-agentic-ai.md) · [Übersicht](README.md) · [Weiter: 10](10-multi-agent-systems.md) · [English](../en/09-memory-tools-context.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/09-memory-tools-context.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

@@ -42,3 +42,7 @@ Vergib eindeutige Schreibzuständigkeiten oder getrennte Arbeitskopien. Prüfe b
 ## Weiterlernen
 
 [Zurück: 09](09-memory-tools-context.md) · [Übersicht](README.md) · [Weiter: 11](11-autonomy-evaluation.md) · [English](../en/10-multi-agent-systems.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/10-multi-agent-systems.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

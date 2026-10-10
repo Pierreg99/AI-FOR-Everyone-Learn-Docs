@@ -43,3 +43,7 @@ Check the number against a reliable source or request a clearer image or confirm
 ## Keep learning
 
 [Previous: 32](32-retrieval-optimization.md) · [Overview](README.md) · [Next: 34](34-evaluation-science.md) · [Deutsch](../de/33-multimodal-ai.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/33-multimodal-ai.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

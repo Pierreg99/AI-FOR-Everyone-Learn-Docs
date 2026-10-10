@@ -42,3 +42,7 @@ Der Schritt ist fehlgeschlagen oder ungeklärt. Prüfe den tatsächlichen Dateis
 ## Weiterlernen
 
 [Zurück: 06](06-rag.md) · [Übersicht](README.md) · [Weiter: 08](08-agentic-ai.md) · [English](../en/07-ai-agents.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/07-ai-agents.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

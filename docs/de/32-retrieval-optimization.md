@@ -43,3 +43,7 @@ Die Fragen können Wortlaut und Struktur der Quellen spiegeln. Ergänze echte Nu
 ## Weiterlernen
 
 [Zurück: 31](31-event-driven-orchestration.md) · [Übersicht](README.md) · [Weiter: 33](33-multimodal-ai.md) · [English](../en/32-retrieval-optimization.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/32-retrieval-optimization.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

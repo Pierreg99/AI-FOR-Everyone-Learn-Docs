@@ -43,3 +43,7 @@ Die Wiederaufnahme prüft den dokumentierten Vorgang und gleicht seine Wirkung a
 ## Weiterlernen
 
 [Zurück: 25](25-distributed-agent-runtime.md) · [Übersicht](README.md) · [Weiter: 27](27-tool-protocols-mcp.md) · [English](../en/26-durable-state-machines.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/26-durable-state-machines.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

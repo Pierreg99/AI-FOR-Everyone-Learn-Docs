@@ -43,3 +43,7 @@ Der alte Worker kann weiterlaufen. Die Zielseite muss seine veraltete Zuständig
 ## Weiterlernen
 
 [Zurück: 24](24-agent-testing.md) · [Übersicht](README.md) · [Weiter: 26](26-durable-state-machines.md) · [English](../en/25-distributed-agent-runtime.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/25-distributed-agent-runtime.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

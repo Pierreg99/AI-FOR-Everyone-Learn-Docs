@@ -43,3 +43,7 @@ Alle notwendigen Handlungsschritte bleiben enthalten; Warnhinweise werden korrek
 ## Weiterlernen
 
 [Zurück: 04](04-llms.md) · [Übersicht](README.md) · [Weiter: 06](06-rag.md) · [English](../en/05-generative-ai.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/05-generative-ai.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

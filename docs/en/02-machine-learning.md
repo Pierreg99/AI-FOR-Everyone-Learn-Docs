@@ -42,3 +42,7 @@ The copies expose test information to the model. Remove duplicates or group rela
 ## Keep learning
 
 [Previous: 01](01-ai-fundamentals.md) · [Overview](README.md) · [Next: 03](03-transformers-foundation-models.md) · [Deutsch](../de/02-machine-learning.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/02-machine-learning.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

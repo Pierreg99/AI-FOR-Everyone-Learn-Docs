@@ -44,3 +44,7 @@ Yes. New content, permissions, or freshness problems can change answers. Check p
 ## Keep learning
 
 [Previous: 22](22-human-ai-interaction.md) · [Overview](README.md) · [Next: 24](24-agent-testing.md) · [Deutsch](../de/23-governance-risk.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/23-governance-risk.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

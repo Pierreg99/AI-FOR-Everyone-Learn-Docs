@@ -43,3 +43,7 @@ Nein. Der Host und der ausführende Dienst müssen Berechtigung, Aufgabe und kon
 ## Weiterlernen
 
 [Zurück: 26](26-durable-state-machines.md) · [Übersicht](README.md) · [Weiter: 28](28-memory-retrieval-evaluation.md) · [English](../en/27-tool-protocols-mcp.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/27-tool-protocols-mcp.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

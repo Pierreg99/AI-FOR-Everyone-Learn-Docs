@@ -44,3 +44,7 @@ Nein. Du hast In-Context-Beispiele bereitgestellt. Die Parameter bleiben bei gew
 ## Weiterlernen
 
 [Zurück: 02](02-machine-learning.md) · [Übersicht](README.md) · [Weiter: 04](04-llms.md) · [English](../en/03-transformers-foundation-models.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/03-transformers-foundation-models.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

@@ -44,3 +44,7 @@ No. Associate derived records with their origins and include them in deletion. T
 ## Keep learning
 
 [Previous: 34](34-evaluation-science.md) · [Overview](README.md) · [Next: 36](36-ai-product-engineering.md) · [Deutsch](../de/35-privacy-engineering.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/35-privacy-engineering.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

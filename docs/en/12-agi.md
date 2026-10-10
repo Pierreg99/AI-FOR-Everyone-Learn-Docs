@@ -41,3 +41,7 @@ One autonomous task does not demonstrate broad, transferable capability. An expl
 ## Keep learning
 
 [Previous: 11](11-autonomy-evaluation.md) · [Overview](README.md) · [Next: 13](13-asi.md) · [Deutsch](../de/12-agi.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/12-agi.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

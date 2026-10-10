@@ -42,3 +42,7 @@ Performance covers correct times and participants; breadth covers supported meet
 ## Keep learning
 
 [Overview](README.md) · [Next: 02](02-machine-learning.md) · [Deutsch](../de/01-ai-fundamentals.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/01-ai-fundamentals.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

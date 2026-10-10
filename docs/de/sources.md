@@ -22,3 +22,7 @@ Originalarbeiten und offizielle Dokumentation zu den Konzepten dieses Guides.
 ## Einordnung
 
 Die Beispiele, Zahlen und Übungsfälle sind eigens erstellte Lernbeispiele. Quellen dokumentieren Grundlagen und weiterführende Perspektiven; sie bestätigen nicht automatisch jede konkrete Architekturentscheidung. Webseiten können sich ändern. Prüfe bei Implementierungen die verwendete Version. Links geprüft am 29. September 2026.
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/sources.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

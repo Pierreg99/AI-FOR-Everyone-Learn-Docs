@@ -44,3 +44,7 @@ The original approval does not automatically cover the changed effect. Stop exec
 ## Keep learning
 
 [Previous: 21](21-inference-serving.md) · [Overview](README.md) · [Next: 23](23-governance-risk.md) · [Deutsch](../de/22-human-ai-interaction.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/22-human-ai-interaction.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

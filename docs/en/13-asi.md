@@ -43,3 +43,7 @@ For example: “How does this system change completion time and quality for a de
 ## Keep learning
 
 [Previous: 12](12-agi.md) · [Overview](README.md) · [Next: 14](14-security-safety.md) · [Deutsch](../de/13-asi.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/13-asi.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

@@ -42,3 +42,7 @@ Wahrscheinlich reicht ein geplanter Workflow mit drei überprüfbaren Schritten.
 ## Weiterlernen
 
 [Zurück: 07](07-ai-agents.md) · [Übersicht](README.md) · [Weiter: 09](09-memory-tools-context.md) · [English](../en/08-agentic-ai.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/08-agentic-ai.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

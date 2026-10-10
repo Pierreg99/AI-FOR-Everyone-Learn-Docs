@@ -44,3 +44,7 @@ Only total cost and success rate can answer that. Add model, operational, and hu
 ## Keep learning
 
 [Previous: 35](35-privacy-engineering.md) · [Overview](README.md) · [Deutsch](../de/36-ai-product-engineering.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/36-ai-product-engineering.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

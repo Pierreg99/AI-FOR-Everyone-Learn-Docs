@@ -25,3 +25,7 @@ Record one successful result and one failure. Explain the difference through dat
 - Operate systems: chapters 19–23, 25–26, 31–32, 34–36.
 
 Reading times are estimates at approximately 180 words per minute. Allow extra time for exercises. Website progress and bookmarks are stored only in your browser; there is no account or cross-device synchronization.
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/getting-started.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

@@ -42,3 +42,7 @@ Die Kopien verraten dem Modell Testinformationen. Entferne Duplikate oder gruppi
 ## Weiterlernen
 
 [Zurück: 01](01-ai-fundamentals.md) · [Übersicht](README.md) · [Weiter: 03](03-transformers-foundation-models.md) · [English](../en/02-machine-learning.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/02-machine-learning.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

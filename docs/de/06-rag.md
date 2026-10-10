@@ -42,3 +42,7 @@ Prüfe erst, ob der Absatz tatsächlich unter den abgerufenen und im Kontext ent
 ## Weiterlernen
 
 [Zurück: 05](05-generative-ai.md) · [Übersicht](README.md) · [Weiter: 07](07-ai-agents.md) · [English](../en/06-rag.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/06-rag.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

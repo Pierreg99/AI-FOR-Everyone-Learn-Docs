@@ -45,3 +45,7 @@ Miss Wartezeit, Modellzeit, Tool-Zeit und Verifikationsaufwand getrennt. Prüfe 
 ## Weiterlernen
 
 [Zurück: 17](17-practice-llm-to-runtime.md) · [Übersicht](README.md) · [Weiter: 19](19-observability.md) · [English](../en/18-roadmap-llm-agent-agi.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/18-roadmap-llm-agent-agi.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

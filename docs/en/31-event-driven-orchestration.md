@@ -44,3 +44,7 @@ Check version order and skip or explicitly handle the stale write. Delivery orde
 ## Keep learning
 
 [Previous: 30](30-tool-security.md) · [Overview](README.md) · [Next: 32](32-retrieval-optimization.md) · [Deutsch](../de/31-event-driven-orchestration.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/31-event-driven-orchestration.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

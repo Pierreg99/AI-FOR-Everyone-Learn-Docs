@@ -34,3 +34,7 @@ Begriffe zum Nachschlagen. Die Kapitel zeigen ihre Anwendung und Grenzen.
 | Tool calling | Strukturierter Vorschlag zum Aufruf einer externen Funktion. |
 | Trace | Verknüpfte Aufzeichnung der Arbeitsschritte einer Ausführung. |
 | Workflow | Weitgehend vorab definierter Kontrollpfad einer Aufgabe. |
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/glossary.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

@@ -43,3 +43,7 @@ Die Nummer gegen eine verlässliche Quelle prüfen oder ein besseres Bild bezieh
 ## Weiterlernen
 
 [Zurück: 32](32-retrieval-optimization.md) · [Übersicht](README.md) · [Weiter: 34](34-evaluation-science.md) · [English](../en/33-multimodal-ai.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/33-multimodal-ai.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

@@ -44,3 +44,7 @@ Nein. Typprüfung verhindert weder Pfadüberschreitung noch Befehlsinjektion. Ve
 ## Weiterlernen
 
 [Zurück: 29](29-context-engineering.md) · [Übersicht](README.md) · [Weiter: 31](31-event-driven-orchestration.md) · [English](../en/30-tool-security.md)
+
+---
+
+[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/30-tool-security.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)

@@ -42,3 +42,7 @@ Check the predefined quality thresholds for each language. The average alone doe
 ## Keep learning
 
 [Previous: 33](33-multimodal-ai.md) · [Overview](README.md) · [Next: 35](35-privacy-engineering.md) · [Deutsch](../de/34-evaluation-science.md)
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/34-evaluation-science.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

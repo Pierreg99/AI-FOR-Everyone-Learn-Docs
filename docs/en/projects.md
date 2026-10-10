@@ -23,3 +23,7 @@ Success means you can explain why the aggregate hides a language difference. Cha
 ## Record your results
 
 Document the task, input, expected outcome, observed outcome, and one next improvement. Do not use personal or confidential data for these exercises. The examples require only the Python standard library.
+
+---
+
+[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/projects.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)
