@@ -37,4 +37,4 @@ Begriffe zum Nachschlagen. Die Kapitel zeigen ihre Anwendung und Grenzen.
 
 ---
 
-[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/glossary.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)
+[Komplette Lern-Website öffnen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/) · [Diese Seite online lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/glossary.html)

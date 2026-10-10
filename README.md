@@ -14,6 +14,8 @@ An open learning guide with 36 matched chapters in English and German.
 
 [English chapters](docs/en/README.md) · [Deutsche Kapitel](docs/de/README.md) · [Deutsches README](README.de.md)
 
+[Full GitHub Pages website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/) · [Documentation hub](docs/README.md)
+
 </div>
 
 ---

@@ -2,9 +2,21 @@
 
 36 Kapitel mit Beispielen, Übungen und Lösungen. Wähle einen Lernpfad oder ein einzelnes Thema.
 
-[Deutsch](../de/README.md) · [English](../en/README.md)
+**[Komplette Lern-Website öffnen →](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)** · [English website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/) · [English documentation](../en/README.md)
 
-[Schnellstart](getting-started.md) · [Glossar](glossary.md) · [Quellen](sources.md) · [Praxisprojekte](projects.md)
+Die Website vereint alle Kapitel, Suche, Lernpfade, Fortschritt und System-Lab. Das Glossar ist eine einzelne Referenzseite innerhalb dieser Website.
+
+## Wähle einen Lernpfad
+
+| Ziel | Einstieg | Umfang |
+| --- | --- | --- |
+| KI verstehen | [KI-Grundlagen](01-ai-fundamentals.md) | 6 Kapitel: Modelle, Lernen, Transformer, Sprachmodelle, generative KI und RAG |
+| Agenten entwickeln | [KI-Agenten](07-ai-agents.md) | 10 Kapitel: Werkzeuge, Kontext, Berechtigungen, Architektur und Tests |
+| Systeme betreiben | [Beobachtbarkeit](19-observability.md) | 12 Kapitel: Inferenz, Recovery, Evaluation, Datenschutz und Kosten |
+
+Der [Schnellstart](getting-started.md) hilft bei der Orientierung. Jedes Kapitel enthält ein Lernziel, ein Beispiel, Grenzen, eine Übung mit Lösung und Originalquellen.
+
+## Alle 36 Kapitel
 
 | # | Kapitel | Vorwissen |
 | --- | --- | --- |
@@ -45,6 +57,14 @@
 | 35 | [Privacy Engineering und Datenschutz](35-privacy-engineering.md) | 14, 20 |
 | 36 | [KI-Produktentwicklung und Wirtschaftlichkeit](36-ai-product-engineering.md) | 16, 21, 34 |
 
+## Nachschlagen und üben
+
+[Schnellstart](getting-started.md) · [Glossar](glossary.md) · [Quellen](sources.md) · [Praxisprojekte](projects.md)
+
+## Den Guide bearbeiten
+
+Dies sind die maßgeblichen deutschen Quellen auf `main`. Halte sie mit [der englischen Ausgabe](../en/README.md) synchron. [Mitwirken](https://github.com/Pierreg99/AI-FOR-Everyone-Learn-Docs/blob/main/CONTRIBUTING.de.md) und [Website-Architektur](https://github.com/Pierreg99/AI-FOR-Everyone-Learn-Docs/blob/main/WEBSITE.md) erklären Änderungen und Deployment. Frühere V1.2-Adressen bleiben als Verweise erhalten.
+
 ---
 
-[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/README.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)
+[Komplette Lern-Website öffnen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/) · [Diese Übersicht online lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/README.html)

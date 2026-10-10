@@ -46,4 +46,4 @@ The relevant claim, its qualifications, and source or version attribution. Losin
 
 ---
 
-[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/29-context-engineering.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)
+[Open the full learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/) · [Read this page online](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/29-context-engineering.html)

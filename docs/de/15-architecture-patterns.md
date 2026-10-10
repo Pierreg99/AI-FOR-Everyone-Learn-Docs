@@ -46,4 +46,4 @@ Ein Entwurfs- und Prüfschritt. Verwende für maschinell entscheidbare Regeln de
 
 ---
 
-[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/15-architecture-patterns.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)
+[Komplette Lern-Website öffnen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/) · [Diese Seite online lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/15-architecture-patterns.html)

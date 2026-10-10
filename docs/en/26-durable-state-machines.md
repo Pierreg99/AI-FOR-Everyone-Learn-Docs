@@ -46,4 +46,4 @@ Resumption checks the recorded operation and reconciles its effect. It executes 
 
 ---
 
-[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/26-durable-state-machines.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)
+[Open the full learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/) · [Read this page online](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/26-durable-state-machines.html)

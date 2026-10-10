@@ -46,4 +46,4 @@ Inspect percentiles, timeout rate, queue time, and task groups. A fast majority 
 
 ---
 
-[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/19-observability.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)
+[Open the full learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/) · [Read this page online](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/19-observability.html)

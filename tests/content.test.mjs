@@ -131,6 +131,18 @@ test('built pages preserve every internal link, asset, anchor and language count
   }
 });
 
+test('Markdown links preserve external source URLs and route local documents to HTML', () => {
+  const source =
+    'https://github.com/Pierreg99/AI-FOR-Everyone-Learn-Docs/blob/main/CONTRIBUTING.md';
+  const rendered = renderMarkdown(
+    `[Contributing](${source})\n\n[Chapter](01-ai-fundamentals.md#learning-goal)`,
+  );
+  assert.ok(rendered.html.includes(`href="${source}"`));
+  assert.ok(
+    rendered.html.includes('href="01-ai-fundamentals.html#learning-goal"'),
+  );
+});
+
 test('Markdown renderer escapes raw HTML and rejects executable URLs', () => {
   const rendered = renderMarkdown(
     '<script>alert(1)</script>\n\n## A heading\n\n## A heading',

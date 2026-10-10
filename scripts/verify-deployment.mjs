@@ -38,6 +38,16 @@ for (let attempt = 1; attempt <= 6; attempt++) {
         throw new Error(
           `${route || '/'} is missing the Pierreg99 introduction.`,
         );
+      if (
+        !route.startsWith('docs/') &&
+        (!html.includes('data-page="home"') ||
+          (html.match(/class="chapter-card"/g) || []).length !== 36 ||
+          !html.includes('id="paths"') ||
+          !html.includes('id="lab"'))
+      )
+        throw new Error(
+          `${route || '/'} must serve the full learning website with all 36 chapters.`,
+        );
     }
     for (const asset of [
       'assets/style.css',

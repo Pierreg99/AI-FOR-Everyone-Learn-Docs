@@ -47,4 +47,4 @@ The original approval does not automatically cover the changed effect. Stop exec
 
 ---
 
-[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/22-human-ai-interaction.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)
+[Open the full learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/) · [Read this page online](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/22-human-ai-interaction.html)

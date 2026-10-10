@@ -48,4 +48,4 @@ Miss Wartezeit, Modellzeit, Tool-Zeit und Verifikationsaufwand getrennt. Prüfe 
 
 ---
 
-[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/18-roadmap-llm-agent-agi.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)
+[Komplette Lern-Website öffnen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/) · [Diese Seite online lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/18-roadmap-llm-agent-agi.html)

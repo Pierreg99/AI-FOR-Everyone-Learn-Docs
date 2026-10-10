@@ -51,7 +51,9 @@ export function renderMarkdown(markdown) {
       },
       link({ href, title, tokens }) {
         safeHref(href);
-        const url = href.replace(/\.md(?=$|[?#])/g, '.html');
+        const url = /^https?:\/\//i.test(href)
+          ? href
+          : href.replace(/\.md(?=$|[?#])/g, '.html');
         return `<a href="${escapeHtml(url)}"${title ? ` title="${escapeHtml(title)}"` : ''}>${this.parser.parseInline(tokens)}</a>`;
       },
       heading({ tokens, depth, text }) {

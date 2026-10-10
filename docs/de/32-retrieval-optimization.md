@@ -46,4 +46,4 @@ Die Fragen können Wortlaut und Struktur der Quellen spiegeln. Ergänze echte Nu
 
 ---
 
-[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/32-retrieval-optimization.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)
+[Komplette Lern-Website öffnen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/) · [Diese Seite online lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/32-retrieval-optimization.html)

@@ -26,4 +26,4 @@ Dokumentiere Aufgabe, Eingabe, erwartetes Ergebnis, beobachtetes Ergebnis und ei
 
 ---
 
-[Diese Seite auf der Website lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/projects.html) · [Lern-Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)
+[Komplette Lern-Website öffnen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/) · [Diese Seite online lesen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/de/projects.html)

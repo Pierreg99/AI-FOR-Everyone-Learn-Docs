@@ -31,4 +31,4 @@ The Pages workflow separates read-only build/test jobs from publication permissi
 
 ---
 
-[Lern-Website: Deutsch](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/) · [Learning website: English](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)
+[Komplette Website: Deutsch](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/) · [Full website: English](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)

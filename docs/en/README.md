@@ -2,9 +2,21 @@
 
 36 chapters with examples, exercises, and answers. Choose a learning path or an individual topic.
 
-[Deutsch](../de/README.md) · [English](../en/README.md)
+**[Open the full learning website →](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)** · [Deutsche Website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/) · [Deutsche Dokumentation](../de/README.md)
 
-[Quick start](getting-started.md) · [Glossary](glossary.md) · [Sources](sources.md) · [Practice projects](projects.md)
+The website brings all chapters, search, learning paths, progress, and the system lab together. The glossary is one reference page within that site.
+
+## Choose a learning path
+
+| Goal | Begin with | Scope |
+| --- | --- | --- |
+| Understand AI | [AI fundamentals](01-ai-fundamentals.md) | 6 chapters: models, learning, Transformers, language models, generative AI, and RAG |
+| Build agents | [AI agents](07-ai-agents.md) | 10 chapters: tools, context, permissions, architecture, and testing |
+| Operate systems | [Observability](19-observability.md) | 12 chapters: serving, recovery, evaluation, privacy, and costs |
+
+Use the [quick start](getting-started.md) to get oriented. Every chapter includes a learning goal, a worked example, limitations, an exercise with an answer, and primary reading.
+
+## All 36 chapters
 
 | # | Chapter | Prerequisites |
 | --- | --- | --- |
@@ -45,6 +57,14 @@
 | 35 | [Privacy engineering and data protection](35-privacy-engineering.md) | 14, 20 |
 | 36 | [AI product engineering and unit economics](36-ai-product-engineering.md) | 16, 21, 34 |
 
+## References and practice
+
+[Quick start](getting-started.md) · [Glossary](glossary.md) · [Sources](sources.md) · [Practice projects](projects.md)
+
+## Editing the guide
+
+These are the canonical English sources on `main`. Keep them synchronized with [the German edition](../de/README.md). See [Contributing](https://github.com/Pierreg99/AI-FOR-Everyone-Learn-Docs/blob/main/CONTRIBUTING.md) and [Website architecture](https://github.com/Pierreg99/AI-FOR-Everyone-Learn-Docs/blob/main/WEBSITE.md) for changes and deployment. Earlier V1.2 addresses remain compatibility links.
+
 ---
 
-[Read this page on the website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/README.html) · [Learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)
+[Open the full learning website](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/) · [Read this index online](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/docs/en/README.html)

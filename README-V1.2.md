@@ -10,4 +10,4 @@ Der vereinheitlichte Codex-Guide auf `main` ist die aktuelle Ausgabe mit allen 3
 
 ---
 
-[Lern-Website: Deutsch](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/) · [Learning website: English](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)
+[Komplette Website: Deutsch](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/) · [Full website: English](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)
