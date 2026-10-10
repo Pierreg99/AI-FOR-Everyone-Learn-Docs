@@ -1,6 +1,27 @@
 import { test, expect } from '@playwright/test';
 import AxeBuilder from '@axe-core/playwright';
 const first = 'docs/de/01-ai-fundamentals.html';
+test('publisher introduction is readable in both languages with a working logo', async ({
+  page,
+}) => {
+  for (const [lang, description] of [
+    ['de', 'Ein offener Lern-Guide zu KI-Systemen'],
+    ['en', 'An open guide to AI systems'],
+  ]) {
+    await page.goto(`${lang}/index.html`);
+    const introduction = page.locator('.creator-banner');
+    await expect(introduction).toBeVisible();
+    await expect(introduction).toContainText('Pierreg99');
+    await expect(introduction).toContainText(description);
+    await expect(introduction.getByRole('link')).toHaveAttribute(
+      'href',
+      'https://github.com/Pierreg99',
+    );
+    expect(
+      await introduction.locator('img').evaluate((img) => img.naturalWidth),
+    ).toBeGreaterThan(0);
+  }
+});
 test('bilingual home, full text search, filters and safe empty state', async ({
   page,
 }) => {

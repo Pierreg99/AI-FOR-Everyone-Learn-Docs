@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title id="title">Pierreg99</title>
+  <rect width="64" height="64" rx="18" fill="#102e28"/>
+  <rect x="1" y="1" width="62" height="62" rx="17" fill="none" stroke="#8ed9b0" stroke-opacity=".3"/>
+  <path d="M17 46V18h12c8 0 12 4 12 11s-4 11-12 11h-5v6Zm7-13h5c4 0 5-1 5-4s-1-4-5-4h-5Z" fill="#eaf5ee"/>
+  <text x="38" y="52" fill="#8ed9b0" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="700">99</text>
+</svg>

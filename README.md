@@ -1,42 +1,70 @@
-# AI for Everyone — learn, build, and question AI
+<div align="center">
 
-**An open learning guide in English and German.** Explore 36 matched chapters, from machine learning and language models to RAG, agents, security, evaluation, and production engineering. Every chapter includes a worked example, a failure mode, an exercise with an answer, and links to primary reading.
+<img src="assets/readme-banner.svg" alt="AI for Everyone — Learn. Build. Question. A project by Pierreg99." width="100%">
 
-[Open the English learning site](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/) · [Deutsch lesen](README.de.md) · [Deutsche Website öffnen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)
+# AI for Everyone
 
-## Canonical files on main
+**Understand the foundations. Build agents. Operate AI systems.**
 
-The unified Codex guide is the primary edition on `main`. Read and update these sources:
+An open learning guide with 36 matched chapters in English and German.
 
-| Source | Purpose |
+[![Edition 2.2](https://img.shields.io/badge/edition-2.2-102e28?style=flat-square&labelColor=1d3e35)](package.json)
+[![36 chapters](https://img.shields.io/badge/chapters-36-102e28?style=flat-square&labelColor=1d3e35)](docs/en/README.md)
+[![German and English](https://img.shields.io/badge/languages-DE_%2B_EN-102e28?style=flat-square&labelColor=1d3e35)](docs/language-map.md)
+[![Validation](https://github.com/Pierreg99/AI-FOR-Everyone-Learn-Docs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Pierreg99/AI-FOR-Everyone-Learn-Docs/actions/workflows/ci.yml)
+
+**[Read in English →](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)** &nbsp; · &nbsp; **[Auf Deutsch lesen →](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)**
+
+[English chapters](docs/en/README.md) · [Deutsche Kapitel](docs/de/README.md) · [Deutsches README](README.de.md)
+
+</div>
+
+---
+
+A project by [Pierreg99](https://github.com/Pierreg99). **The unified Codex guide on `main` is the primary edition.** Its canonical sources live in [`docs/en/`](docs/en/README.md) and [`docs/de/`](docs/de/README.md).
+
+## Choose your starting point
+
+| Your goal | What you will learn | Start here |
+| --- | --- | --- |
+| **Understand AI** | Models, machine learning, Transformers, language models, generative AI, and RAG | [AI fundamentals](docs/en/01-ai-fundamentals.md) · 6 chapters |
+| **Build agents** | Tools, memory, context, permissions, architecture, and testing | [AI agents](docs/en/07-ai-agents.md) · 10 chapters |
+| **Operate systems** | Observability, data, serving, recovery, evaluation, privacy, and costs | [Observability](docs/en/19-observability.md) · 12 chapters |
+
+Start with the [quick guide](docs/en/getting-started.md), follow a path on the website, or browse [all 36 chapters](docs/en/README.md). The remaining chapters deepen architecture and research boundaries. AGI and ASI are capability and hypothetical future concepts, not guaranteed engineering milestones.
+
+## A learning space that stays yours
+
+<a href="https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/">
+  <img src="assets/readme-preview-en.jpg" alt="English learning website with Pierreg99 branding, chapter navigation, and learning progress" width="100%">
+</a>
+
+*The actual learning website, built from this repository.*
+
+| Read and understand | Explore and keep track |
 | --- | --- |
-| [English guide](docs/en/README.md) | All 36 English chapters and reference pages in `docs/en/` |
-| [German guide](docs/de/README.md) | All 36 matching German chapters and reference pages in `docs/de/` |
-| [Chapter manifest](data/chapters.json) | Shared chapter order, topics, and prerequisites |
-| [Website architecture](WEBSITE.md) | Build and deployment of the site generated from these sources |
+| Every chapter includes a learning goal, worked example, limitations, exercise, answer, and primary reading | Full-text search, topic filters, and three learning paths |
+| Paired German and English pages with links between matching chapters | Shared progress and bookmarks across languages in the same browser |
+| Responsive light/dark layouts, a chapter outline, and reading focus (`F`) | Local JSON progress export/import and a next-chapter panel |
+| Chapters and navigation remain readable without JavaScript | Architecture explorer and illustrative cost/reliability calculators |
 
-Earlier V1.2 indexes and chapter addresses are compatibility links to this edition. Make content changes in the canonical language directories and keep both editions synchronized; see [Contributing](CONTRIBUTING.md) and [Language architecture](docs/language-map.md).
+The site has no account, analytics service, external font dependency, or runtime API. Progress stays in browser storage, with a session-only fallback if storage is unavailable. Backup files are processed locally. Search, saved progress, and interactive tools require JavaScript. Calculator prices are example assumptions, not vendor quotes.
 
-The website works as a static GitHub Pages site. It has no account, analytics service, external font dependency, or runtime API. Reading progress and bookmarks stay in the current browser. All chapters and navigation remain readable when JavaScript is disabled; search, interactive tools, and saved progress require JavaScript.
+## Learn by doing
 
-## Edition 2.1
+Three small Python examples use only the standard library. Run them from the repository root with Python 3.10+:
 
-A refreshed interface adds larger type, responsive navigation, a personal next-chapter panel, and a focused reading view (shortcut `F`). Export your progress as a JSON backup and import it on another browser: valid backups merge completed chapters and bookmarks without removing existing entries. Files are processed locally. German and English share the same progress.
+```sh
+python examples/retrieval.py --lang en --query "returns"
+python examples/durable_job.py
+python examples/evaluate.py
+```
 
-
-## Find your starting point
-
-- **Understand AI:** chapters 1–6 cover models, learning, Transformers, language models, generative AI, and RAG.
-- **Build agents:** chapters 7–9, 14–15, 17, 24, 27, and 29–30 connect tools, context, permissions, runtime design, and tests.
-- **Operate systems:** chapters 19–23, 25–26, 31–32, and 34–36 address observability, data, serving, recovery, evaluation, privacy, and costs.
-
-The other chapters deepen architectures and research boundaries. AGI and ASI are capability and hypothetical future concepts; they are not guaranteed engineering milestones.
-
-[English chapter index](docs/en/README.md) · [German chapter index](docs/de/README.md) · [Quick start](docs/en/getting-started.md) · [Glossary](docs/en/glossary.md) · [Sources](docs/en/sources.md) · [Practice projects](docs/en/projects.md)
+Try a retrieval baseline, retry an operation without duplicate database effects, and examine evaluation results by language. The [practice projects](docs/en/projects.md) explain what to check and how to extend each exercise.
 
 ## Run the website locally
 
-Node.js 22+ and npm are required for the build. Python 3.10+ is required only for the optional examples.
+**Requirements:** Node.js 22+ and npm. Python 3.10+ is also needed for `npm run check`, which runs the example tests.
 
 ```sh
 npm ci
@@ -44,10 +72,49 @@ npm run check
 npm run dev
 ```
 
-Open `http://127.0.0.1:4173/`. The `dist/` folder contains the complete deployable site; no Node.js process is needed on GitHub Pages. After editing a chapter, run `npm run build` again. Browser tests can be run with `npx playwright install chromium && npm run test:e2e` where browser downloads are available.
+Open **http://127.0.0.1:4173/**. `npm run build` generates the deployable static site in `dist/`; rebuild after editing a chapter. The deployed site needs no Node.js process.
 
-See [WEBSITE.md](WEBSITE.md) for the file layout and deployment, [CONTRIBUTING.md](CONTRIBUTING.md) for editing guidelines, and [ROADMAP.md](ROADMAP.md) for completed work and open opportunities. Previous V1.2 entry points and chapter URLs remain as pointers to the current editions.
+For desktop/mobile browser and accessibility checks:
 
-### Edition 2.2: clearer learning navigation
+```sh
+npx playwright install chromium
+npm run test:e2e
+```
 
-Learning paths show individual progress, finished chapters have a visible state, and completing the guide points to practice projects. A collapsible chapter outline is available on phones and tablets; desktop outlines highlight the current section. Deployment checks now verify the actual public German and English pages after publication.
+## One guide, clear source files
+
+```text
+docs/
+├── en/                  English chapters and reference pages
+└── de/                  Matching German chapters and reference pages
+data/chapters.json       Shared chapter order, topics, and prerequisites
+assets/                  Styles, browser scripts, and images
+scripts/                 Static build, preview server, and deployment checks
+examples/                Three runnable Python exercises
+tests/                   Content, link, example, and browser checks
+index.html               Website template
+dist/                    Generated output — ignored by Git
+```
+
+Edit the canonical language files together. Earlier V1.2 indexes and chapter addresses are compatibility links to the current guide. GitHub Pages publishes the generated `dist/` artifact through [the Pages workflow](.github/workflows/pages.yml); its deployment source must be **GitHub Actions**.
+
+## Find a reference or contribute
+
+| Read | Maintain |
+| --- | --- |
+| [Quick start](docs/en/getting-started.md) | [Contributing](CONTRIBUTING.md) |
+| [Glossary](docs/en/glossary.md) | [Website and deployment](WEBSITE.md) |
+| [Sources and further reading](docs/en/sources.md) | [Language architecture](docs/language-map.md) |
+| [Practice projects](docs/en/projects.md) | [Roadmap](ROADMAP.md) |
+
+Improve an explanation, try an exercise, or correct a source. Keep chapter scope, examples, exercises, and references synchronized between German and English.
+
+---
+
+<div align="center">
+
+**[Start learning →](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)**
+
+<sub>AI for Everyone · Pierreg99 · Edition 2.2</sub>
+
+</div>

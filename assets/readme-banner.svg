@@ -1,8 +1,30 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="280" viewBox="0 0 1200 280" role="img" aria-label="AI-FOR-Everyone-Learn-Docs">
-  <rect width="1200" height="280" rx="24" fill="#0A0A0A"/>
-  <rect x="16" y="16" width="1168" height="248" rx="16" fill="#141414" stroke="#2A2A28"/>
-  <rect x="16" y="16" width="8" height="248" fill="#7EB8C9"/>
-  <text x="56" y="108" fill="#A8A49B" font-family="Segoe UI, Inter, system-ui, sans-serif" font-size="22" letter-spacing="4">PIERREG99</text>
-  <text x="56" y="168" fill="#ECE8E1" font-family="Segoe UI, Inter, system-ui, sans-serif" font-size="42" font-weight="600">AI-FOR-Everyone-Learn-Docs</text>
-  <text x="56" y="214" fill="#7EB8C9" font-family="Segoe UI, Inter, system-ui, sans-serif" font-size="18">Core Lite README · ein Akzent · kein Platzhalter</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1440" height="420" viewBox="0 0 1440 420" role="img" aria-labelledby="title description">
+  <title id="title">AI for Everyone — a project by Pierreg99</title>
+  <desc id="description">Learn. Build. Question. 36 chapters, German and English, three learning paths.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#102e28"/><stop offset="1" stop-color="#0b1d20"/></linearGradient>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#b5f0cc"/><stop offset="1" stop-color="#63c7b4"/></linearGradient>
+    <pattern id="dots" width="24" height="24" patternUnits="userSpaceOnUse"><circle cx="2" cy="2" r="1" fill="#8ed9b0" opacity=".12"/></pattern>
+  </defs>
+  <rect width="1440" height="420" rx="24" fill="url(#bg)"/>
+  <rect x="890" width="550" height="420" rx="24" fill="url(#dots)"/>
+  <path d="M890 32v356" stroke="#8ed9b0" stroke-opacity=".15"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="74" fill="#a9d7bc" font-size="19" letter-spacing="3">PIERREG99 / AI FOR EVERYONE</text>
+    <text x="60" y="180" fill="#f0f7f1" font-size="76" font-weight="700" letter-spacing="-3">Learn. Build.</text>
+    <text x="60" y="264" fill="#a4e9c0" font-size="76" font-weight="700" letter-spacing="-3">Question.</text>
+    <text x="64" y="318" fill="#c0d5cb" font-size="24">A field guide to AI systems.</text>
+    <text x="64" y="372" fill="#a9d7bc" font-size="17" letter-spacing="1">36 CHAPTERS  /  DE + EN  /  3 LEARNING PATHS</text>
+  </g>
+  <g fill="none" stroke="#6da890" stroke-width="2">
+    <path d="M950 100h96l50 72M1380 100h-96l-50 72M950 322h96l50-72M1380 322h-96l-50-72"/>
+    <circle cx="950" cy="100" r="7" fill="#a4e9c0"/><circle cx="1380" cy="100" r="7" fill="#a4e9c0"/>
+    <circle cx="950" cy="322" r="7" fill="#a4e9c0"/><circle cx="1380" cy="322" r="7" fill="#a4e9c0"/>
+  </g>
+  <path d="m1043 229 121-69 121 69v32l-121 70-121-70Z" fill="#173b33" stroke="#41745e"/>
+  <path d="m1043 202 121-69 121 69v32l-121 70-121-70Z" fill="#27604b" stroke="#76b393"/>
+  <path d="m1043 175 121-69 121 69-121 70Z" fill="url(#accent)" stroke="#c7f4d7"/>
+  <path d="m1070 175 94-54 94 54-94 54Z" fill="none" stroke="#328768" stroke-width="2"/>
+  <text x="1164" y="190" text-anchor="middle" fill="#113c2c" font-family="Arial, Helvetica, sans-serif" font-size="43" font-weight="700">AI</text>
+  <g fill="#a9d7bc" font-family="Arial, Helvetica, sans-serif" font-size="13" letter-spacing="2"><text x="932" y="77">CONTEXT</text><text x="1320" y="77">TOOLS</text><text x="932" y="362">MEMORY</text><text x="1310" y="362">CHECKS</text></g>
 </svg>

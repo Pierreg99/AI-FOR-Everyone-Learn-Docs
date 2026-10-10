@@ -1,6 +1,9 @@
 export const languages = ['de', 'en'];
 export const copy = {
   de: {
+    creatorLabel: 'Ein Projekt von',
+    creatorDescription:
+      'Ein offener Lern-Guide zu KI-Systemen: Grundlagen verstehen, Agenten entwickeln und Systeme betreiben. Auf Deutsch und Englisch.',
     pathProgress: 'Dein Fortschritt im Lernpfad',
     finishedTitle: 'Alle 36 Kapitel abgeschlossen',
     finishedLead:
@@ -170,6 +173,9 @@ export const copy = {
     notFoundLead: 'Starte in der Bibliothek und finde dein nächstes Thema.',
   },
   en: {
+    creatorLabel: 'A project by',
+    creatorDescription:
+      'An open guide to AI systems: understand the foundations, build agents, and operate systems. In German and English.',
     pathProgress: 'Your learning path progress',
     finishedTitle: 'All 36 chapters completed',
     finishedLead:

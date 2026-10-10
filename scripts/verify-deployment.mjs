@@ -29,8 +29,21 @@ for (let attempt = 1; attempt <= 6; attempt++) {
         throw new Error(
           `${route || '/'} is not the generated ${lang} site for ${version}. Check Settings → Pages → Source: GitHub Actions.`,
         );
+      if (
+        !route.startsWith('docs/') &&
+        (!html.includes('class="creator-banner"') ||
+          !html.includes('Pierreg99') ||
+          !html.includes('assets/pierreg99-logo.svg'))
+      )
+        throw new Error(
+          `${route || '/'} is missing the Pierreg99 introduction.`,
+        );
     }
-    for (const asset of ['assets/style.css', 'assets/app.js']) {
+    for (const asset of [
+      'assets/style.css',
+      'assets/app.js',
+      'assets/pierreg99-logo.svg',
+    ]) {
       const response = await fetch(new URL(asset, base), {
         signal: AbortSignal.timeout(15000),
       });

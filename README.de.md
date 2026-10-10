@@ -1,42 +1,70 @@
-# AI for Everyone — KI verstehen und anwenden
+<div align="center">
 
-**Ein offener Lern-Guide auf Deutsch und Englisch.** 36 aufeinander abgestimmte Kapitel führen von Machine Learning und Sprachmodellen über RAG und Agenten bis zu Sicherheit, Evaluation und produktiven Systemen. Jedes Kapitel enthält ein Beispiel, ein Fehlerbild, eine Übung mit Lösung und Links zu vertiefenden Originalquellen.
+<img src="assets/readme-banner.svg" alt="AI for Everyone — Lernen. Entwickeln. Hinterfragen. Ein Projekt von Pierreg99." width="100%">
 
-[Deutsche Lern-Website öffnen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/) · [English README](README.md) · [English learning site](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)
+# AI for Everyone
 
-## Maßgebliche Dateien auf main
+**Grundlagen verstehen. Agenten entwickeln. KI-Systeme betreiben.**
 
-Der vereinheitlichte Codex-Guide ist die Hauptausgabe auf `main`. Lies und bearbeite diese Quellen:
+Ein offener Lern-Guide mit 36 aufeinander abgestimmten Kapiteln auf Deutsch und Englisch.
 
-| Quelle | Zweck |
+[![Ausgabe 2.2](https://img.shields.io/badge/Ausgabe-2.2-102e28?style=flat-square&labelColor=1d3e35)](package.json)
+[![36 Kapitel](https://img.shields.io/badge/Kapitel-36-102e28?style=flat-square&labelColor=1d3e35)](docs/de/README.md)
+[![Deutsch und Englisch](https://img.shields.io/badge/Sprachen-DE_%2B_EN-102e28?style=flat-square&labelColor=1d3e35)](docs/language-map.md)
+[![Validierung](https://github.com/Pierreg99/AI-FOR-Everyone-Learn-Docs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Pierreg99/AI-FOR-Everyone-Learn-Docs/actions/workflows/ci.yml)
+
+**[Auf Deutsch lesen →](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)** &nbsp; · &nbsp; **[Read in English →](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)**
+
+[Deutsche Kapitel](docs/de/README.md) · [English chapters](docs/en/README.md) · [English README](README.md)
+
+</div>
+
+---
+
+Ein Projekt von [Pierreg99](https://github.com/Pierreg99). **Der vereinheitlichte Codex-Guide auf `main` ist die Hauptausgabe.** Die maßgeblichen Quellen liegen in [`docs/de/`](docs/de/README.md) und [`docs/en/`](docs/en/README.md).
+
+## Finde deinen Einstieg
+
+| Dein Ziel | Was du lernst | Hier starten |
+| --- | --- | --- |
+| **KI verstehen** | Modelle, Machine Learning, Transformer, Sprachmodelle, generative KI und RAG | [KI-Grundlagen](docs/de/01-ai-fundamentals.md) · 6 Kapitel |
+| **Agenten entwickeln** | Werkzeuge, Gedächtnis, Kontext, Berechtigungen, Architektur und Tests | [KI-Agenten](docs/de/07-ai-agents.md) · 10 Kapitel |
+| **Systeme betreiben** | Beobachtbarkeit, Daten, Inferenz, Recovery, Evaluation, Datenschutz und Kosten | [Beobachtbarkeit](docs/de/19-observability.md) · 12 Kapitel |
+
+Beginne mit dem [Schnellstart](docs/de/getting-started.md), folge einem Lernpfad auf der Website oder stöbere in [allen 36 Kapiteln](docs/de/README.md). Die übrigen Kapitel vertiefen Architektur und Forschungsgrenzen. AGI und ASI sind Fähigkeits- beziehungsweise hypothetische Zukunftskonzepte, keine garantierten Entwicklungsschritte.
+
+## Dein eigener Lernraum
+
+<a href="https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/">
+  <img src="assets/readme-preview-de.jpg" alt="Deutsche Lern-Website mit Pierreg99-Logo, Kapitelnavigation und Lernfortschritt" width="100%">
+</a>
+
+*Die tatsächliche Lern-Website, gebaut aus diesem Repository.*
+
+| Lesen und verstehen | Erkunden und den Überblick behalten |
 | --- | --- |
-| [Deutscher Guide](docs/de/README.md) | Alle 36 deutschen Kapitel und Referenzseiten in `docs/de/` |
-| [Englischer Guide](docs/en/README.md) | Alle 36 passenden englischen Kapitel und Referenzseiten in `docs/en/` |
-| [Kapitelmanifest](data/chapters.json) | Gemeinsame Kapitelreihenfolge, Themenbereiche und Vorwissen |
-| [Website-Architektur](WEBSITE.md) | Build und Deployment der Website aus diesen Quellen |
+| Jedes Kapitel enthält Lernziel, Beispiel, Grenzen, Übung, Lösung und Originalquellen | Volltextsuche, Themenfilter und drei Lernpfade |
+| Deutsche und englische Seiten mit Links zum passenden Kapitel | Gemeinsamer Fortschritt und Lesezeichen für beide Sprachen im selben Browser |
+| Responsive helle/dunkle Oberfläche, Kapitelübersicht und Lesefokus (`F`) | Lokaler JSON-Export/Import des Fortschritts und ein persönlicher nächster Lernschritt |
+| Kapitel und Navigation bleiben ohne JavaScript lesbar | Architektur-Explorer und beispielhafte Kosten- und Zuverlässigkeitsrechner |
 
-Frühere V1.2-Übersichten und Kapitel-Adressen verweisen auf diese Ausgabe. Bearbeite Inhalte in den maßgeblichen Sprachverzeichnissen und halte beide Ausgaben synchron; siehe [Mitwirken](CONTRIBUTING.de.md) und [Spracharchitektur](docs/language-map.md).
+Die Website benötigt weder Konto noch Analyse-Dienst, externe Schriftart oder Laufzeit-API. Fortschritt bleibt im Browser-Speicher; falls dieser nicht verfügbar ist, gilt er nur für die Sitzung. Sicherungsdateien werden lokal verarbeitet. Suche, gespeicherter Fortschritt und interaktive Werkzeuge benötigen JavaScript. Preise in den Rechnern sind Beispielannahmen, keine Anbieterpreise.
 
-Die Website wird statisch auf GitHub Pages bereitgestellt. Sie braucht weder Konto noch Analyse-Dienst, externe Schriftart oder Laufzeit-API. Fortschritt und Lesezeichen bleiben im aktuellen Browser. Alle Kapitel sind auch ohne JavaScript lesbar; Suche, interaktive Werkzeuge und gespeicherter Fortschritt benötigen JavaScript.
+## Lernen durch Ausprobieren
 
-## Ausgabe 2.1
+Drei kleine Python-Beispiele verwenden nur die Standardbibliothek. Führe sie mit Python 3.10+ im Repository-Verzeichnis aus:
 
-Die überarbeitete Oberfläche bietet größere Schrift, mobile Navigation, einen persönlichen nächsten Lernschritt und einen Lesefokus (Taste `F`). Exportiere deinen Fortschritt als JSON-Datei und importiere ihn in einem anderen Browser: gültige Sicherungen ergänzen abgeschlossene Kapitel und Lesezeichen, ohne vorhandene Einträge zu entfernen. Die Dateien werden lokal verarbeitet. Deutsch und Englisch teilen denselben Lernstand.
+```sh
+python examples/retrieval.py --lang de --query "Rückgabe"
+python examples/durable_job.py
+python examples/evaluate.py
+```
 
-
-## Dein Einstieg
-
-- **KI verstehen:** Kapitel 1–6 erklären Modelle, Lernen, Transformer, Sprachmodelle, generative KI und RAG.
-- **Agenten entwickeln:** Kapitel 7–9, 14–15, 17, 24, 27 und 29–30 verbinden Werkzeuge, Kontext, Berechtigungen, Laufzeit und Tests.
-- **Systeme betreiben:** Kapitel 19–23, 25–26, 31–32 und 34–36 behandeln Beobachtbarkeit, Daten, Inferenz, Recovery, Evaluation, Datenschutz und Kosten.
-
-Die übrigen Kapitel vertiefen Architektur und Forschungsgrenzen. AGI und ASI sind Fähigkeits- beziehungsweise hypothetische Zukunftskonzepte; sie sind keine garantierten Entwicklungsschritte.
-
-[Deutsche Kapitelübersicht](docs/de/README.md) · [Englische Kapitelübersicht](docs/en/README.md) · [Schnellstart](docs/de/getting-started.md) · [Glossar](docs/de/glossary.md) · [Quellen](docs/de/sources.md) · [Praxisprojekte](docs/de/projects.md)
+Probiere eine einfache Retrieval-Baseline aus, wiederhole eine Operation ohne doppelten Datenbankeffekt und vergleiche Evaluationsergebnisse nach Sprache. Die [Praxisprojekte](docs/de/projects.md) erklären, was du prüfen und wie du die Übungen erweitern kannst.
 
 ## Website lokal starten
 
-Für den Build benötigst du Node.js 22+ und npm. Python 3.10+ wird nur für die optionalen Praxisbeispiele benötigt.
+**Voraussetzungen:** Node.js 22+ und npm. Für `npm run check` wird auch Python 3.10+ benötigt, da es die Beispieltests ausführt.
 
 ```sh
 npm ci
@@ -44,10 +72,49 @@ npm run check
 npm run dev
 ```
 
-Öffne `http://127.0.0.1:4173/`. Der Ordner `dist/` enthält die komplette Website für GitHub Pages. Nach einer Kapiteländerung muss `npm run build` erneut ausgeführt werden. Browsertests laufen mit `npx playwright install chromium && npm run test:e2e`, sofern ein Browser-Download verfügbar ist.
+Öffne **http://127.0.0.1:4173/**. `npm run build` erzeugt die statische Website in `dist/`; baue sie nach einer Kapiteländerung erneut. Die veröffentlichte Website benötigt keinen Node.js-Prozess.
 
-[WEBSITE.md](WEBSITE.md) beschreibt Dateien und Deployment, [CONTRIBUTING.de.md](CONTRIBUTING.de.md) das Mitwirken und [ROADMAP.md](ROADMAP.md) abgeschlossene sowie mögliche nächste Schritte. Frühere V1.2-Einstiege und Kapitel-Adressen verweisen auf die aktuellen Ausgaben.
+Für Desktop-/Mobil-Browsertests und Barrierefreiheitsprüfungen:
 
-### Ausgabe 2.2: bessere Orientierung beim Lernen
+```sh
+npx playwright install chromium
+npm run test:e2e
+```
 
-Lernpfade zeigen den eigenen Fortschritt, abgeschlossene Kapitel sind sichtbar markiert und nach dem letzten Kapitel geht es zu Praxisprojekten. Auf Smartphone und Tablet gibt es eine aufklappbare Kapitelübersicht; am Desktop wird der aktuelle Abschnitt hervorgehoben. Nach der Veröffentlichung prüft der Workflow die tatsächlich erreichbaren deutschen und englischen Seiten.
+## Ein Guide, klare Quelldateien
+
+```text
+docs/
+├── de/                  Deutsche Kapitel und Referenzseiten
+└── en/                  Passende englische Kapitel und Referenzseiten
+data/chapters.json       Gemeinsame Kapitelreihenfolge, Themen und Vorwissen
+assets/                  Styles, Browser-Skripte und Bilder
+scripts/                 Statischer Build, Vorschau-Server und Deployment-Prüfung
+examples/                Drei ausführbare Python-Übungen
+tests/                   Inhalts-, Link-, Beispiel- und Browsertests
+index.html               Website-Vorlage
+dist/                    Generierte Ausgabe — von Git ignoriert
+```
+
+Bearbeite die maßgeblichen Sprachdateien gemeinsam. Frühere V1.2-Übersichten und Kapitel-Adressen verweisen auf den aktuellen Guide. GitHub Pages veröffentlicht das generierte `dist/`-Artefakt über [den Pages-Workflow](.github/workflows/pages.yml); als Deployment-Quelle muss **GitHub Actions** eingestellt sein.
+
+## Nachschlagen oder mitwirken
+
+| Lesen | Pflegen |
+| --- | --- |
+| [Schnellstart](docs/de/getting-started.md) | [Mitwirken](CONTRIBUTING.de.md) |
+| [Glossar](docs/de/glossary.md) | [Website und Deployment](WEBSITE.md) |
+| [Quellen und Vertiefung](docs/de/sources.md) | [Spracharchitektur](docs/language-map.md) |
+| [Praxisprojekte](docs/de/projects.md) | [Roadmap](ROADMAP.md) |
+
+Verbessere eine Erklärung, probiere eine Übung aus oder korrigiere eine Quelle. Halte fachlichen Umfang, Beispiele, Übungen und Quellen zwischen Deutsch und Englisch synchron.
+
+---
+
+<div align="center">
+
+**[Jetzt loslernen →](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)**
+
+<sub>AI for Everyone · Pierreg99 · Ausgabe 2.2</sub>
+
+</div>
