@@ -8,10 +8,7 @@
 
 An open learning guide with 36 matched chapters in English and German.
 
-[![Edition 2.2](https://img.shields.io/badge/edition-2.2-102e28?style=flat-square&labelColor=1d3e35)](package.json)
-[![36 chapters](https://img.shields.io/badge/chapters-36-102e28?style=flat-square&labelColor=1d3e35)](docs/en/README.md)
-[![German and English](https://img.shields.io/badge/languages-DE_%2B_EN-102e28?style=flat-square&labelColor=1d3e35)](docs/language-map.md)
-[![Validation](https://github.com/Pierreg99/AI-FOR-Everyone-Learn-Docs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Pierreg99/AI-FOR-Everyone-Learn-Docs/actions/workflows/ci.yml)
+[![Edition 2.2](https://img.shields.io/badge/edition-2.2-102e28?style=flat-square&labelColor=1d3e35)](package.json) [![36 chapters](https://img.shields.io/badge/chapters-36-102e28?style=flat-square&labelColor=1d3e35)](docs/en/README.md) [![German and English](https://img.shields.io/badge/languages-DE_%2B_EN-102e28?style=flat-square&labelColor=1d3e35)](docs/language-map.md) [![Validation](https://github.com/Pierreg99/AI-FOR-Everyone-Learn-Docs/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/Pierreg99/AI-FOR-Everyone-Learn-Docs/actions/workflows/ci.yml)
 
 **[Read in English →](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)** &nbsp; · &nbsp; **[Auf Deutsch lesen →](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/)**
 
