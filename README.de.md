@@ -4,6 +4,19 @@
 
 [Deutsche Lern-Website öffnen](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/de/) · [English README](README.md) · [English learning site](https://pierreg99.github.io/AI-FOR-Everyone-Learn-Docs/en/)
 
+## Maßgebliche Dateien auf main
+
+Der vereinheitlichte Codex-Guide ist die Hauptausgabe auf `main`. Lies und bearbeite diese Quellen:
+
+| Quelle | Zweck |
+| --- | --- |
+| [Deutscher Guide](docs/de/README.md) | Alle 36 deutschen Kapitel und Referenzseiten in `docs/de/` |
+| [Englischer Guide](docs/en/README.md) | Alle 36 passenden englischen Kapitel und Referenzseiten in `docs/en/` |
+| [Kapitelmanifest](data/chapters.json) | Gemeinsame Kapitelreihenfolge, Themenbereiche und Vorwissen |
+| [Website-Architektur](WEBSITE.md) | Build und Deployment der Website aus diesen Quellen |
+
+Frühere V1.2-Übersichten und Kapitel-Adressen verweisen auf diese Ausgabe. Bearbeite Inhalte in den maßgeblichen Sprachverzeichnissen und halte beide Ausgaben synchron; siehe [Mitwirken](CONTRIBUTING.de.md) und [Spracharchitektur](docs/language-map.md).
+
 Die Website wird statisch auf GitHub Pages bereitgestellt. Sie braucht weder Konto noch Analyse-Dienst, externe Schriftart oder Laufzeit-API. Fortschritt und Lesezeichen bleiben im aktuellen Browser. Alle Kapitel sind auch ohne JavaScript lesbar; Suche, interaktive Werkzeuge und gespeicherter Fortschritt benötigen JavaScript.
 
 ## Ausgabe 2.1
